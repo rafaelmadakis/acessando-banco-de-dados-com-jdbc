@@ -17,7 +17,7 @@ import com.algaworks.eventos.model.Evento;
 
 
 /**
- *  Author: Rafael Madakis
+ *  @author: Rafael Madakis
  */
 
 public class EventoDAOTest {
